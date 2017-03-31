@@ -1,0 +1,22 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "2",
+  "main": "1",
+  "scripts": {
+    "test": "2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2"
+  },
+  "keywords": [
+    "3"
+  ],
+  "author": "3",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2"
+  }
+}
